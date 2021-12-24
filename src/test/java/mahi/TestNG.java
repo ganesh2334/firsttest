@@ -32,6 +32,6 @@ public class TestNG {
 	@AfterMethod
 	public void afterMethod() {
 		 //driver.close();
-		System.out.println("Finished Test On Chrome Browser");
+		System.out.println("Finished Test On Chrome Browserrr");
 	}
 }
